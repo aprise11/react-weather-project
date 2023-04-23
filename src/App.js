@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <Weather />
-        <footer>
+        <footer className="mt-2">
           This project was coded by{" "}
           <a
             href="https://prismatic-panda-2ddff3.netlify.app/"
