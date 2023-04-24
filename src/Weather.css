@@ -2,12 +2,11 @@
   border: 1px solid #dadde1;
   border-radius: 4px;
   background: linear-gradient(
-    110.3deg,
-    rgb(238, 179, 123) 8.7%,
-    rgb(216, 103, 77) 47.5%,
-    rgb(114, 43, 54) 89.1%
+    69.5deg,
+    rgb(1, 179, 201) 2.7%,
+    rgb(255, 199, 89) 97.2%
   );
-  color: #ffd6b6;
+  color: #ffffff;
   font-family: "Poppins", sans-serif;
   padding: 16px;
 }
@@ -30,10 +29,8 @@
   text-transform: uppercase;
   list-style: none;
 }
-.Weather img {
+.Weather canvas {
   margin-right: 10px;
-  height: 64px;
-  width: 64px;
   display: inline-block;
 }
 
