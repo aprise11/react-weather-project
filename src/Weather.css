@@ -30,7 +30,7 @@
   list-style: none;
 }
 .Weather canvas {
-  margin-right: 10px;
+  margin: 10px auto;
   display: inline-block;
 }
 
