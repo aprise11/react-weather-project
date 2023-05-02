@@ -36,8 +36,9 @@
 
 .Weather .temperature {
   font-size: 70px;
-  line-height: 64px;
+  line-height: 80px;
   font-weight: 500;
+  margin-left: 10px;
 }
 
 .Weather .unit {
